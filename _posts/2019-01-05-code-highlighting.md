@@ -5,12 +5,12 @@ description: "A quick demo of  theme's code highlighting features"
 categories: [demo]
 tags: [demo, jekyll]
 redirect_from:
-  - /2017/05/27/
+  - /2019/01/05/
 ---
 
-> This is code blocks and highlighting test page for [][] theme.
+> 代码高亮显示Demo.
 
-* Kramdown table of contents
+* Kramdown table of contents，自动生成层级目录Demo
 {:toc .toc}
 
 # Code Spans
