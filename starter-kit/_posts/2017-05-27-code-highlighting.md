@@ -5,7 +5,7 @@ description: "A quick demo of  theme's code highlighting features"
 categories: [demo]
 tags: [demo, jekyll]
 redirect_from:
-  - /2017/05/27/
+  - /2019/01/05/
 ---
 
 > 代码高亮显示Demo.

@@ -5,7 +5,7 @@ description: "A quick demo post to some kramdown features."
 categories: [demo]
 tags: [demo, jekyll]
 redirect_from:
-  - /2017/05/25/
+  - /2019/01/03/
 ---
 
 > [kramdown][kramdown]，自动生成层级目录Demo
