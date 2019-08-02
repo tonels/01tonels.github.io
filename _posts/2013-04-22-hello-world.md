@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hello World!"
-description: "The first 'Hello world' post for Simple Texture theme."
+description: "The first 'Hello world' post for  theme."
 categories: [uncategorized]
 tags: [random, jekyll]
 redirect_from:

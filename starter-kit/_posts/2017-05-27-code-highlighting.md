@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "A quick demo of Simple Texture theme's code highlighting features"
-description: "A quick demo of Simple Texture theme's code highlighting features"
+title: "A quick demo of  theme's code highlighting features"
+description: "A quick demo of  theme's code highlighting features"
 categories: [demo]
 tags: [demo, jekyll]
 redirect_from:
@@ -77,4 +77,4 @@ function myFunction() {
 [^1]: This is a footnote.
 
 [kramdown]: https://kramdown.gettalong.org/
-[Simple Texture]: https://github.com/tonels/tonels.github.io
+[]: https://github.com/tonels/tonels.github.io

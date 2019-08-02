@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Tonels"]
   spec.email         = ["liangshuai0012018@outlook.com"]
 
-  spec.summary       = %q{A gem-based responsive simple texture styled Jekyll theme.}
+  spec.summary       = %q{A gem-based responsive  styled Jekyll theme.}
   spec.homepage      = "https://github.com/tonels/tonels.github.io"
   spec.license       = "MIT"
 

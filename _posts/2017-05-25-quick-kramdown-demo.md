@@ -8,7 +8,7 @@ redirect_from:
   - /2017/05/25/
 ---
 
-> This is [kramdown][kramdown] formatting test page for [Simple Texture][Simple Texture] theme.
+> This is [kramdown][kramdown] formatting test page for [][] theme.
 
 * Kramdown table of contents
 {:toc .toc}
@@ -124,4 +124,4 @@ Here comes an image!
 [^1]: This is a footnote.
 
 [kramdown]: https://kramdown.gettalong.org/
-[Simple Texture]: https://github.com/tonels/tonels.github.io
+[]: https://github.com/tonels/tonels.github.io
