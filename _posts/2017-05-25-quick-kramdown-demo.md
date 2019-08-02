@@ -17,8 +17,8 @@ redirect_from:
 
 This is a normal paragraph.
 
-This is [a link](https://yizeng.me) to my homepage.
-A [link](https://yizeng.me/blog "Yi Zeng's Blog") can also have a title.
+This is [a link]() to my homepage.
+A [link]() can also have a title.
 
 This is a ***text with light and strong emphasis***.
 
@@ -65,7 +65,7 @@ This tag will let you <strike>strikeout text</strike>.
 
 ### Long lines
 
-> Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites. Think of it like a file-based CMS, without all the complexity. Jekyll takes your content, renders Markdown and Liquid templates, and spits out a complete, static website ready to be served by Apache, Nginx or another web server. Jekyll is the engine behind GitHub Pages, which you can use to host sites right from your GitHub repositories.
+Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites. Think of it like a file-based CMS, without all the complexity. Jekyll takes your content, renders Markdown and Liquid templates, and spits out a complete, static website ready to be served by Apache, Nginx or another web server. Jekyll is the engine behind GitHub Pages, which you can use to host sites right from your GitHub repositories.
 
 ## Lists
 
@@ -124,4 +124,4 @@ Here comes an image!
 [^1]: This is a footnote.
 
 [kramdown]: https://kramdown.gettalong.org/
-[Simple Texture]: https://github.com/yizeng/jekyll-theme-simple-texture
+[Simple Texture]: https://github.com/tonels/tonels.github.io

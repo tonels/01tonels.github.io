@@ -3,11 +3,11 @@
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-theme-simple-texture"
   spec.version       = "0.4.0"
-  spec.authors       = ["Yi Zeng"]
-  spec.email         = ["iam@yizeng.me"]
+  spec.authors       = ["Tonels"]
+  spec.email         = ["liangshuai0012018@outlook.com"]
 
   spec.summary       = %q{A gem-based responsive simple texture styled Jekyll theme.}
-  spec.homepage      = "https://github.com/yizeng/jekyll-theme-simple-texture"
+  spec.homepage      = "https://github.com/tonels/tonels.github.io"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r{^(assets|_layouts|_includes|_sass|LICENSE|README)}i) }

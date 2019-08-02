@@ -124,4 +124,4 @@ Here comes an image!
 [^1]: This is a footnote.
 
 [kramdown]: https://kramdown.gettalong.org/
-[Simple Texture]: https://github.com/yizeng/jekyll-theme-simple-texture
+[Simple Texture]: https://github.com/tonels/tonels.github.io
