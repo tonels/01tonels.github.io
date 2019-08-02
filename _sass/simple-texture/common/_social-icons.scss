@@ -75,8 +75,14 @@ $size: 48;
     }
 
     .ico-vk {
-        @include get-ico-image(vk);
+         @include get-ico-image(vk);
 
-        background-color: #6383A8;
+         background-color: #6383A8;
+     }
+
+    .ico-csdn {
+        @include get-ico-image(csdn);
+
+        background-color: #181717;
     }
 }
