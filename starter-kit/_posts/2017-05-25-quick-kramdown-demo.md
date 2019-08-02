@@ -8,7 +8,7 @@ redirect_from:
   - /2017/05/25/
 ---
 
-> This is [kramdown][kramdown] formatting test page for [Simple Texture][Simple Texture] theme.
+> [kramdown][kramdown]，自动生成层级目录Demo
 
 * Kramdown table of contents
 {:toc .toc}
