@@ -38,8 +38,11 @@ author:
       url:
 home:
   section1: <h1>Tonels Blog</h1>
-  section2: <h2>个人兴趣，记录学习成长...</h2>
-  section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/tonels/tonels.github.io" title="View on GitHub"></a></div>
+  section2: <h2>个人兴趣，记录学习成长...摘自我在CSDN上的博文，部分</h2>
+  section3: <div class="social-links">
+                <a class="ico-github btn" href="https://github.com/tonels/tonels.github.io" title="GitHub"></a>
+                <a class="ico-csdn btn" href="https://blog.csdn.net/qq_42105629" title="CSDN"></a>
+            </div>
 blog:
   cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
   cc_license_image: /assets/images/theme/cc-by-sa.png # An image of your CC License. 
