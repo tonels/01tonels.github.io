@@ -32,18 +32,8 @@ author:
   location:
   email:
   social_links:
-    - name: facebook
-      url:
     - name: github
       url: https://github.com/tonels
-    - name: instagram
-      url:
-    - name: linkedin
-      url:
-    - name: stackoverflow
-      url:
-    - name: twitter
-      url: 
     - name: vk
       url:
 home:

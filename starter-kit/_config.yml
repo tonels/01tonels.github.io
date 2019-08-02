@@ -33,20 +33,8 @@ author:
   location:
   email:
   social_links:
-    - name: facebook
-      url:
     - name: github
       url: https://github.com/tonels/tonels.github.io
-    - name: instagram
-      url:
-    - name: linkedin
-      url:
-    - name: stackoverflow
-      url:
-    - name: twitter
-      url: 
-    - name: vk
-      url:
 home:
   section1: <h1>Simple Texutre</h1>
   section2: <h2>A gem-based responsive simple texture styled Jekyll theme</h2>
